@@ -3,7 +3,7 @@
 int main()
 {
   // define an array to store the input in the array
-  int store[3];
+  int store[10];
 
   // a loop asking for the input of 5 ints and storing them in the array
   for(int input = 0; input < 5; input++)
