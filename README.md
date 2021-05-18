@@ -1,8 +1,4 @@
 # C
-In the process of uploading...
-
-
-
 Simple C programs for learning purposes only. 
 
 
